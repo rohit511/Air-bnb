@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+}
+nav{
+height:100px;
+display:flex;
+padding:20px 30px;
+box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+
+
+}
+
+.navlogo{
+    max-width:180px;
+}
+.navlogo1{
+    max-width:180px;
+}

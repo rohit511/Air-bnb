@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+ section{
+padding :20px;
+
+
+}
+.img-container{
+height:500px;
+width:100%;
+display: flex;
+padding: 30px 30px;
+
+
+
+
+
+  }
+.Hero{
+    display:flex;
+    flex-direction: column;
+}
+.Hero--photo{
+    max-width: 1800px;
+    height:400px;
+    align-self:center;
+  
+
+}
+.Hero--header{
+    margin-bottom: 20px;
+    margin-left:30px;
+   
+}
+.Hero--text{
+    margin-top:0;
+    margin-left:30px;    
+}  
